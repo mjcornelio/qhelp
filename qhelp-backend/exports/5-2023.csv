@@ -1,0 +1,4 @@
+Ticket ID,User,Ticket By,Subject,Agent,CreatedAt,UpdatedAt,Duration,State,Root
+1,CNC 01,Nuse 1,asef,Admin Test,"May 23, 2023, 10:06:14 PM","May 23, 2023, 10:07:36 PM",0:1:22,closed,Network
+2,CNC 01,Mar John Espiritu Cornelio,Test,Admin Test,"May 24, 2023, 10:10:31 PM","May 24, 2023, 10:13:22 PM",0:2:51,closed,Network
+4,CNC 01,Mar John Espiritu Cornelio,UNTAGGING,Admin Test,"May 25, 2023, 9:27:17 PM","May 25, 2023, 9:27:17 PM",,open,
